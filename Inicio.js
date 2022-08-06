@@ -1,1 +1,1 @@
-alert ("chao Mando");
+alert ("chao Editado");
