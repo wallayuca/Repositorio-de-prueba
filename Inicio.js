@@ -1,1 +1,1 @@
-alert ("Hola Mando");
+alert ("chao Mando");
